@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ou",
+				"output_index\tstatement"
+			],
+			[
+				"epic",
+				"epic_key_index\tstatement"
+			],
+			[
+				"epi",
+				"epic_key"
+			],
+			[
+				"get",
+				"get_all_tasks_in_epic\tmodule"
+			],
+			[
+				"n",
+				"nan\tstatement"
+			],
+			[
+				"drop",
+				"dropna\tfunction"
+			],
+			[
+				"fi",
+				"field_mapping\tstatement"
+			],
+			[
+				"fla",
+				"flatten_dict\tfunction"
+			],
+			[
+				"ep",
+				"epic_key\tstatement"
+			],
+			[
+				"to",
+				"to_csv\tfunction"
+			],
+			[
+				"lo",
+				"lookup_field\tfunction"
+			],
+			[
+				"fr",
+				"from_dict\tfunction"
+			],
+			[
+				"all",
+				"all_tasks\tstatement"
+			],
+			[
+				"tasks",
+				"tasks"
+			],
+			[
+				"user",
+				"username\tstatement"
+			],
+			[
+				"pay",
+				"payload\tstatement"
+			],
+			[
+				"pa",
+				"payload_path\tstatement"
+			],
+			[
+				"tas",
+				"task_file_names\tstatement"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"cre",
+				"create_task\tmodule"
+			],
+			[
+				"total",
+				"total_issues\tstatement"
+			],
+			[
+				"l",
+				"loads\tfunction"
+			],
+			[
+				"max",
+				"max_results\tparam"
+			],
+			[
+				"sta",
+				"start_at\tparam"
+			],
+			[
+				"create",
+				"create_task\tfunction"
+			],
+			[
+				"sub",
+				"subtask_path\tstatement"
+			],
+			[
+				"ph",
+				"phase_name\tstatement"
+			],
+			[
+				"dir_",
+				"dir_path\tstatement"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"g",
+				"get\tfunction"
+			],
+			[
+				"age",
+				"agreements"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"stat",
+				"status_code"
+			],
+			[
+				"task",
+				"task_paths"
+			],
+			[
+				"su",
+				"subdirectories"
+			],
+			[
+				"task_pa",
+				"task_phases"
+			],
+			[
+				"creat",
+				"create_task"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"epic_",
+				"epic_name"
+			],
+			[
+				"np",
+				"numpy"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"uninstall",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"unins",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 293.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51017)",
+			"print(sys.path)",
+			"print(sys.path())",
+			"print sys.path()",
+			"import sys",
+			"import subprocess",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 55804))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 58878))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51047))",
+			"import subprocess",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 58878))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 55804))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/smacrae/jira-api",
+		"/Users/smacrae/jira-api/functions",
+		"/Users/smacrae/jira-api/tests"
+	],
+	"file_history":
+	[
+		"/Users/smacrae/jira-api/run_create_canned_tasks.sh",
+		"/Users/smacrae/jira-api/tests/test_create_canned_tasks.py",
+		"/Users/smacrae/jira-api/functions/jira_api.py",
+		"/Users/smacrae/jira-api/tests/test_jira_api.py",
+		"/Users/smacrae/jira-api/functions/create_canned_tasks.py",
+		"/Users/smacrae/jira-api/functions/get_all_task_status.py",
+		"/Users/smacrae/jira-api/scripts/chc_jira_prod_fields.json",
+		"/Users/smacrae/jira-api/scripts/create_task.sh",
+		"/Users/smacrae/jira-api/tests/tasks/1_a_task.json",
+		"/Users/smacrae/jira-api/scripts/create_epic.sh",
+		"/Users/smacrae/jira-api/scripts/create_subtask.sh",
+		"/Users/smacrae/jira-api/scripts/get_custom_fields.sh",
+		"/Users/smacrae/jira-api/scripts/some_task.json",
+		"/Users/smacrae/jira-api/tests/tasks/epic.json",
+		"/Users/smacrae/jira-api/scripts/chc_jira_dev_fields.json",
+		"/Users/smacrae/jira-api/scripts/customfields.txt",
+		"/Users/smacrae/jira-api/scripts/some_subtask.json",
+		"/Users/smacrae/jira-api/user_dev.yml",
+		"/Users/smacrae/jira-api/user_prod.yml",
+		"/Users/smacrae/jira-api/user_dev.yaml",
+		"/Users/smacrae/.zshrc",
+		"/Users/macrae0917/.zshrc",
+		"/Users/macrae0917/jira-api/tests/test_jira_api.py",
+		"/Users/macrae0917/jira-api/functions/jira_api.py",
+		"/Users/macrae0917/jira-api/functions/create_canned_tasks.py",
+		"/Users/macrae0917/jira-api/tests/tasks/epic.json",
+		"/Users/macrae0917/jira-api/tests/tasks/1_a_task.json",
+		"/Users/macrae0917/scala-utils/.git/MERGE_MSG",
+		"/Users/macrae0917/jira-api/tests/user_dev.yml",
+		"/Users/macrae0917/jira-api/functions/get_all_task_status.py",
+		"/Users/macrae0917/jira-api/run_create_canned_tasks.sh",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/1_preplanning.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/3_a_maintenance_plan.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/2_b_monitor_production.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/2_c_test_and_qa_monitoring.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/3_maintenance_plan.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/2_a_monitor_business.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/1_a_qa_and_test.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/2_implement_monitoring.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/1_deploy_model.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/sub_tasks/1_a_push_to_prod.json",
+		"/Users/macrae0917/jira-api/tasks/4_evaluation/sub_tasks/1_b_approve_model.json",
+		"/Users/macrae0917/jira-api/tasks/4_evaluation/1_evaluate_model.json",
+		"/Users/macrae0917/jira-api/tasks/4_evaluation/sub_tasks/1_a_distribute_learnings.json",
+		"/Users/macrae0917/jira-api/tasks/4_evaluation/2_approve_model.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/1_a_empirical_research.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/1_b_model_development.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/2_a_tune_parameters.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/3_a_cross_validation.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/1_b_model_comparison.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/1_research_and_development.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/2_build_model.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/2_tune_parameters.json",
+		"/Users/macrae0917/jira-api/tasks/4_evaluation/1_evaluate.json",
+		"/Users/macrae0917/jira-api/tasks/5_deployment/2_monitoring.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/sub_tasks/1_a_empirical_approaches.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/3_assess_model.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/3_a_describe_data.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/3_b_preprocess_data.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/3_describe_data.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/2_b_test_ETL.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/2_a_implement_ETL.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/1_a_etl_architecture.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/1_b_data_validation.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/2_etl_implementation.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/1_etl_plan.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/sub_tasks/1_a_data_transfer_protocol.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/1_onboard_plan.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/3_b_lift_calculation.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/4_a_data_science_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/4_b_data_science_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/2_d_data_provenance.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/2_c_communications.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/5_a_create_project_plan.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/4_data_science_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/5_b_distribute_project_plan.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/3_business_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1_a_create_wiki.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/3_business_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/3_confirm_business_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1b_identify_key_stakeholders.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1c_define_target_metric.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/2_service_level_agreement.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/2_timetable.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/2_communications.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1a_create_wiki.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/2_kickoff.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1_create_wiki.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1_preplanning_checklist.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/1_identify_key_stakeholders.json",
+		"/Users/macrae0917/jira-api/run_get_all_task_status.sh",
+		"/Users/macrae0917/jira-api/scripts/run_get_all_task_status.sh",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/subtasks/2_setup_ETL.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/subtasks/1_empirical_approaches.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/subtasks/2_tune_parameters.json",
+		"/Users/macrae0917/jira-api/tasks/3_modeling/subtasks/1_compare_models.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/subtasks/3_data_description_report.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/subtasks/2_test_ETL.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/subtasks/1_distribute_onboarding_plan.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/3_update_wiki_with_business_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/4_update_wiki_with_data_science_objective.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/5_distribute_project_plan.json",
+		"/Users/macrae0917/jira-api/scripts/get_all_project_tasks.sh",
+		"/Users/macrae0917/jira-api/.git/COMMIT_EDITMSG",
+		"/Users/macrae0917/jira-api/tests/test_create_canned_tasks.py",
+		"/Users/macrae0917/jira-api/functions/spawn_engagement_tasks.py",
+		"/Users/macrae0917/jira-api/.gitignore",
+		"/Users/macrae0917/jira-api/tests/test_spawn_engagement_tasks.py",
+		"/Users/smacrae/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/smacrae/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/smacrae/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/smacrae/Library/Application Support/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/subtasks/1_test_ETL.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/5_project_plan.json",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/sub_tasks/5_project_pan_distributed.json",
+		"/Users/smacrae/Library/Application Support/Sublime Text 3/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/Users/macrae0917/jira-api/scripts/create_subtask.sh",
+		"/Users/macrae0917/jira-api/scripts/create_task.sh",
+		"/Users/macrae0917/jira-api/scripts/get_task.sh",
+		"/Users/macrae0917/jira-api/scripts/some_subtask.json",
+		"/Users/macrae0917/jira-api/scripts/chc_jira_fields.json",
+		"/Users/macrae0917/jira-api/requirements.txt",
+		"/Users/macrae0917/jira-api/user.yml",
+		"/Users/macrae0917/jira-api/tasks/1_business_understanding/4_data_science_objective.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/2_onboard_customer.json",
+		"/Users/macrae0917/jira-api/tasks/2_data_understanding/3_data_description.json",
+		"/Users/macrae0917/.ssh/id_rsa.pub",
+		"/Users/macrae0917/.gitconfig"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10601",
+			"Epic",
+			"Epic Key",
+			"epic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "jira-api.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/macrae0917/jira-api/jira-api.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
