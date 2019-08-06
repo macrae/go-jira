@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "project": {
+      "key": "AI"
+    },
+    "customfield_10001": "AI-1",
+    "summary": "REST ye merry gentlemen.",
+    "description": "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype": {
+      "name": "Task"
+    }
+  }
+}

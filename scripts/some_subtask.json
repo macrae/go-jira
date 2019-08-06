@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "project": {
+      "key": "AI"
+    },
+    "parent": {
+      "key": "AI-527"
+    },
+    "summary": "Sub-task of AI-527",
+    "description": "Don't forget to do this too.",
+    "issuetype": {
+      "id": "5"
+    },
+    "customfield_11007": "{\"name\":\"a checklist item\"}"
+  }
+}
