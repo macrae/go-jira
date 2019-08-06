@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Cross-validation",
+        "description": "Based on the tuned parameters of the model, report on the cross-validation performance metrics, or other relevant model evaluation measures.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Cross-validation matrix published to wiki \"}"
+    }
+}

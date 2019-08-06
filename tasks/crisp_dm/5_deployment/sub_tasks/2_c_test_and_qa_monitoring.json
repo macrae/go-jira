@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Test and QA Monitoring Services",
+        "description": "Make sure monitoring is working as expected and meets general response and uptime requirements (if there are any).",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Monitoring passes test and quality assurance measures\"}"
+    }
+}

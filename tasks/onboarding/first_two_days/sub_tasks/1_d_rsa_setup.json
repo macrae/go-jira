@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "RSA Setup",
+        "description": "Instructions for setting up your RSA keys and token should have been sent to your email. Contact desktop support or review further instructions on the onboarding wiki if not.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Set up RSA authentication\"}"
+    }
+}

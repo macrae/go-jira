@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Identify Key Stakeholders",
+        "description": " Identify the key stakeholders and single points of contact for business, data, legal (if applicable), etc.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Distribute key stakeholder roles and contact information to team\"}"
+    }
+}

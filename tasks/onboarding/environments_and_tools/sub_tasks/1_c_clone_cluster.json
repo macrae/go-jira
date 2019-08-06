@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Clone cluster and add step",
+        "description": "As detailed in the onboarding wiki, clone an existing EMR cluster in the NONPROD environment, adding a step. Verify SSH abilities and ability to access web apps like Zeppelin.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Clone cluster and add step\"}"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "AWS-CLI Exercises",
+        "description": "As detailed in the onboarding wiki and EMR Recipes wiki, use the AWS-CLI to perform common tasks such as switching roles and spinning up an EMR cluster.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"AWS-CLI Exercises\"}"
+    }
+}

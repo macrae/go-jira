@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Webex Access",
+        "description": "As detailed in the onborading wiki, request Webex authorization. Once you have received this, confirm access by joining your personal Webex room.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Webex Access\"}"
+    }
+}

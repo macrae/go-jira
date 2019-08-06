@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Diagram ETL Architecture",
+        "description": "Diagram the data pipelines from the customer's source system into the data lake, specifying areas of ownership (them or us), authentication procedures, data validation, and job frequency or trigger rules.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Data pipeline architecture\"}"
+    }
+}

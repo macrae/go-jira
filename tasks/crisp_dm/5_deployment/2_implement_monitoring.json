@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "CycleTime"
+        ],
+        "summary": "Integrate Model Monitoring Services",
+        "description": "Make sure that the data pipelines are in place for capturing future transactional and finance data from the business to assess model accuracy, the businesses adherence to model predictions, and target metric lift. Also, make sure that production monitoring services are enabled to notify the team of job exceptions or cross-validation drift outside of some acceptable threshold.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

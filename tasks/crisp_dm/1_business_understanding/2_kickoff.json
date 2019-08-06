@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "KickOff Meeting",
+        "description": "Official kickoff meeting with key stakeholders and relevant single points of contact to introduce everybody, form awareness of the business and data science objectives, and set expectations for service level agreements, estimate delivery date, and ongoing maintenence.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

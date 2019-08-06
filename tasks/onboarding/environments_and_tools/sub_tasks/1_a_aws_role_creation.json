@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Set up Roles through AWS Management Console",
+        "description": "To do any work using our AWS resources, you will need to create a range of user roles first. Set these up, as detailed in the onboarding wiki.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Set up roles through AWS Management Console\"}"
+    }
+}

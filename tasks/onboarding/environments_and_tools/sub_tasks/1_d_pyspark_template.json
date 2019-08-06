@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Clone cluster and use template",
+        "description": "As detailed in the onboarding wiki, clone a cluster and use our pyspark template to do some toy modeling. This exercise effectively verifies proper setup of AWS credentials, Gitlab, SSH abilities, and more.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Clone cluster and use template\"}"
+    }
+}

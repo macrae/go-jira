@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Setup Email",
+        "description": "Verify email access via Outlook and set up mobile email via BlackBerry Work (instructions here: https://ops.emdeon.net/pages/viewpage.action?pageId=76344801 )",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Setup email\"}"
+    }
+}

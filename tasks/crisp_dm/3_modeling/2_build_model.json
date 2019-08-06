@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "CycleTime"
+        ],
+        "summary": "Build Model",
+        "description": "Based on the model recommendation of the research and development phase, build and tune the model at scale.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Building and Workspace setup",
+        "description": "Access cards, desk setup, meetings.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

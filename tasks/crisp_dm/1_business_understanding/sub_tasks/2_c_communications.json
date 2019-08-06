@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Establish Communication Format & Cadence",
+        "description": "Identify how development and findings are to be shared, if recurring meetings are necessary, and if so, who is required and who is optional.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Set meeting schedule with required and optional participants\"}"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Define Target Metric & Lift",
+        "description": "Assess the business' ability to define a clear target metric and desired model performance and outcome.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Identify target metric and (ballpark estimate of) desired lift\"}"
+    }
+}

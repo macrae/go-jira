@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "ETL Implementation",
+        "description": "Based on the ETL plan: implement, test, and QA the data pipelines from the customer's source system into the data lake.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

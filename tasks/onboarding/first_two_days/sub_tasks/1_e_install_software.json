@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Install additional software",
+        "description": "Install MS Teams if not already on your machine. Feel free to install any other programs that you wish to use. IntelliJ, SublimeText, MacVim, and SQL Workbench J are all popular options. Some of this may require local admin access. Note that it is highly recommended that you use a password manager (CHC seems to prefer KeePass) -- you will be creating a *lot* of passwords and changing them frequently.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Install additional software not already on computer\"}"
+    }
+}

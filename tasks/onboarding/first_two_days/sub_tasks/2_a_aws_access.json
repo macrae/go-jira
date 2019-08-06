@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "AWS Access",
+        "description": "Verify that the AWS icons (PROD and NONPROD) show up in PingOne. If not, follow the instructions in the onboarding wiki for requesting access. Once you have access, also review template materials as discussed in the onboarding wiki.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"AWS Access\"}"
+    }
+}

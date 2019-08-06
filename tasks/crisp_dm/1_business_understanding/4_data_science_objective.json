@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Document Data Science Objective",
+        "description": "After the pre-planning and kickoff meetings, document the Data Science goals and assumptions, for example: models to consider using, potential dataset limitations, proposed hypotheses to test or features to engineer, etc.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

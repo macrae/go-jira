@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Create Project Plan and Timeline",
+        "description": "After holding pre-planning and kickoff meetings and documenting the business and data scinece objectives on the wiki, create a project plan that identifies stakeholders and single points of contact (with their contact information), provides a high level overview of the objectives, and put forth a project timeline, etc.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

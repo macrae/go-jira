@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Schedule meetings",
+        "description": "Schedule brief introductory meetings with all senior team members, to take place in the first week or so. Meet additionally with any other team members as recommended or as you like.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Schedule meetings\"}"
+    }
+}

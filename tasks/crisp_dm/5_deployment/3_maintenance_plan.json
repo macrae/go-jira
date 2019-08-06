@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "Maintenance"
+        ],
+        "summary": "Model Maintenance Plan",
+        "description": "Put together a timetable for ongoing review and refactoring of production model.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

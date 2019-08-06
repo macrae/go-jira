@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Establish Timetable",
+        "description": "Identify target delivery dates for project milestones, for example: data acquisition and validation, development begins/ends, etc.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Set target delivery dates for project milestones in wiki and distribute to team\"}"
+    }
+}

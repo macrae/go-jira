@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Device Setup",
+        "description": "Obtain laptop, set up software, request permissions, and sync email to phone.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Gitlab Access",
+        "description": "Login to gitlab.healthcareit.net/groups/artificialintelligence using your NA password. Ask to be added to the group as 'Developer'.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Gitlab Access\"}"
+    }
+}

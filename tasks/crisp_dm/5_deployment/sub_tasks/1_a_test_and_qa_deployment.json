@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Test & QA Production Model",
+        "description": "Perform testing and quality assurance of the production model to ensure fault tolerance, re-playability, audit-ability, uptime, response time, etc.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Model passes all tests\"}"
+    }
+}

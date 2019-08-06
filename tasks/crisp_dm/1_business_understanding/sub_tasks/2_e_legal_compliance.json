@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Determine Need for Legal Approvals",
+        "description": "Record what data assets will be shared in the course of the engagement, and between which parties. If data is to be shared between two or more teams, or CHC data provided to other teams, meet with leadership (e.g. Adam Sullivan) to determine if there is a need to obtain legal approval.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Need for legal approvals documented in wiki\"}"
+    }
+}

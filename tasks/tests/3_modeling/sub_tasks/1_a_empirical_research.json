@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Research Empirical Approaches",
+        "description": "Investigate known solutions and available research related to the feature engineering and modeling problems at hand.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Updated wiki with empirical research\"}"
+    }
+}

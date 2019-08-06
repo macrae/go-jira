@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Pre-process & Feature Engineering",
+        "description": "Pre-process fields for machine learning, which could include: one-hot encoding categorical variables, binning continuous variables, mapping categorical variables to higher-level groupings, converting data types, etc.\n\nIn addition, begin engineering features based on the business and data understanding, such as: a weekday/weekend variable, lag variables, ratios, etc.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Data summary report published to wiki\"}"
+    }
+}

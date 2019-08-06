@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Distribute Model Statistics & Findings",
+        "description": "Summarize and report on the findings from the model assessment phase. For external communications, focus on the way the model meets (or doesn't meet) the required performance measures.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Distribute model statistics and findings to group\"}"
+    }
+}

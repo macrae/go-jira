@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Data Description & Summary",
+        "description": "Once the customer has been onboarded, run summary statistics on the data and post to the wiki - share with stakeholders. Describe data quality, note any potential issues around e.g. encoding, class imbalance, overall data volumes, data timeliness, etc.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

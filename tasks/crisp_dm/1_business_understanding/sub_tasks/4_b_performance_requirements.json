@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Establish Model Performance Requirements",
+        "description": "Based on the business needs, and working closely with them, define the required model performance metrics for declaring success and pushing a v1.0 to production.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Wiki updated with model performance requirements\"}"
+    }
+}

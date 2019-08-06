@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "ETL Plan",
+        "description": "Based on the SLA's, timetable, and data provenance defined during the business understanding phase, put together a plan for building hardened pipelines that will facilitate the business as a client of our tech stack.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Establish Lift Calculation",
+        "description": "Working closely with the business, reach a consensus on how the model impact, as it relates to revenue or efficiency, will be calculated moving forward. If there is a baseline period for comparison make sure it is clearly defined.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Wiki updated with lift calculation\"}"
+    }
+}

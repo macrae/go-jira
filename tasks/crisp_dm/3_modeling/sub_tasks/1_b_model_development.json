@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Model Development",
+        "description": "Build and compare models inventoried during the empirical research phase. A model performance matrix showing performance and interpretability considerations is extremely useful.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Recommendation made for production model published to wiki\"}"
+    }
+}

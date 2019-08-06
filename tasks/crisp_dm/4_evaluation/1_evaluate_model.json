@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "CycleTime"
+        ],
+        "summary": "Evaluate Model Assessment",
+        "description": "Considering the findings of the modeling phase and cross-validation scores of the tuned recommended model, does this model meet the requirements defined in the business objective and target lift goal? Does it meet the data science objectives? Can it meet our SLA?",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

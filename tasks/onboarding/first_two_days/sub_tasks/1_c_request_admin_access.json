@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Request local admin access",
+        "description": "If it has not already been done on your behalf, request local admin access for your laptop (this will let you install/uninstall stuff at will, have complete sudo access, etc). This approval can take a couple days so it's important to do it early. Step-by-step instructions can be found on the onboarding wiki.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Request local admin access for laptop\"}"
+    }
+}

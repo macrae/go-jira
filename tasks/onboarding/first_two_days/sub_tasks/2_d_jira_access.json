@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "JIRA Access",
+        "description": "Request to be added to the Artificial Intelligence JIRA group as detailed in the onboarding wiki",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"JIRA Access\"}"
+    }
+}

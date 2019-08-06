@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Have 'the talk' about PHI",
+        "description": "At any point during onboarding, but prior to doing any hands-on work with AWS, debrief with a senior team member about data placement compliance.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Have 'the talk' about PHI\"}"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "CycleTime"
+        ],
+        "summary": "Assess Model Performance",
+        "description": "Evaluate model performance relative to key indicators established during business understanding phase, ensuring that required e.g. precision/recall targets are being hit.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}

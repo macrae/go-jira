@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "parent": {
+            "key": "parent task-key"
+        },
+        "summary": "Building Access",
+        "description": "Fill out applications for elevator, stairs, and parking access badges and deliver them to Tyson on the 5th floor. Andrea Kelly at the 5th floor desk can issue you single-day parking validations until your badges are provided or if you forget your badge.",
+        "issuetype": {
+            "id": "5"
+        },
+        "customfield_11007": "{\"name\":\"Building Access\"}"
+    }
+}

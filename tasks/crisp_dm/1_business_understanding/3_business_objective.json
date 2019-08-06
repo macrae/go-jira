@@ -1,0 +1,19 @@
+{
+    "fields": {
+        "project": {
+            "key": "AI"
+        },
+        "reporter": {
+            "name": "jira_username"
+        },
+        "customfield_10001": "epic_id",
+        "labels": [
+            "LeadTime"
+        ],
+        "summary": "Business Objective",
+        "description": "After the pre-planning and kickoff meetings state the business goals and objectives, dependencies, along with well-defined (and measurable) business success criteria.",
+        "issuetype": {
+            "name": "Task"
+        }
+    }
+}
